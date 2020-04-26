@@ -3,6 +3,7 @@
 
 # Xcode - User files
 xcuserdata/
+testpro.xcodeproj/project.xcworkspace/
 
 **/*.xcodeproj/project.xcworkspace/*
 !**/*.xcodeproj/project.xcworkspace/xcshareddata
